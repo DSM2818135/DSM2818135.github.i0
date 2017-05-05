@@ -1,0 +1,34 @@
+/* Stylesheet for Evidence 3 */
+
+html body {
+	vertical-align: top;
+	margin: 0;
+	padding:5
+	color: black;
+	font-family: Arial; 
+	font-weight:20
+	font-size: 1em;
+	background-color: antiquewhite;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	vertical-align: top;
+	color:black;
+	font-weight: ; /* Weight for headers */
+}
+
+header, section {
+	vertical-align: top;
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
+ul li {
+	vertical-align: top;
+	display: inline-block;
+	padding: 5px;
+}
+nav a {
+	text-decoration: none;
+	color: ; /* Color for the text on navigation */
+}
